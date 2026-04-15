@@ -84,6 +84,3 @@ Since distributed systems lack a global view, detecting deadlocks becomes challe
 pip install -r requirements.txt
 streamlit run app.py
 
-
-
-<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/e9d3539f-3c5d-42e4-a4ef-d67aa21d24b1" />
